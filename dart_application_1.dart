@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:characters/characters.dart';
 
 void main() {
-  if (Platform.isWindows) {}
+  
 
   Random random = Random();
 
